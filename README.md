@@ -1,4 +1,4 @@
-# Professional Cybersecurity Toolkit
+# Cybersecurity Toolkit
 
 A comprehensive Python-based cybersecurity toolkit for security analysis, testing, and professional security assessments.
 
